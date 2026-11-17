@@ -1,0 +1,24 @@
+{
+  "name": "n1-setup",
+  "version": "1.0.0",
+  "description": "My Node.js N1 Activity",
+  "main": "index.js",
+  
+  "scripts": {
+  "start": "node index.js",
+  "dev": "nodemon index.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
+  "keywords": [
+    "nodejs",
+    "npm"
+  ],
+  "author": "EGIE BOY P. DELA CRUZ",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
